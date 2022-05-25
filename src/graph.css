@@ -1,0 +1,29 @@
+#d3demo{
+	width: 100vw;
+	height: 50vh;
+}
+.align{
+align-items: center;
+text-align: center;
+padding: 2rem;
+margin-top: 7rem;
+
+
+}
+.btn-graph
+{
+	width: 80%;
+    height: 50px;
+    margin-top: 10px;
+    border-radius: 2px;
+    background: linear-gradient(
+      90deg,
+      rgb(39, 176, 255) 0%,
+      rgb(0, 232, 236) 100%
+    );
+    outline: none;
+    border: none;
+    color: #fff;
+    font-size: 1rem;
+  }
+  
